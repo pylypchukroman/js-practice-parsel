@@ -1,0 +1,1 @@
+{"version":3,"sources":["task-1.css"],"names":[],"mappings":"AAAA,MACE,YACF,CACA,IACE,cAEF,CAEA,WAHE,iBAKF","file":"task-1.551c0ce0.css","sourceRoot":"../src","sourcesContent":[".task {\n  color: tomato;\n}\n.h1 {\n  font-size: 65px;\n  text-align: center;\n}\n\n.panel {\n  text-align: center;\n}\n"]}
