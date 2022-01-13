@@ -1,11 +1,15 @@
-/* .task {
-  color: tomato;
-} */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
+header {
+  background-color: darkgrey;
+  height: 100px;
+  padding-top: 30px;
+}
+
 ul {
   list-style-type: none;
   padding-left: 0;
@@ -15,6 +19,7 @@ ul {
   display: flex;
   justify-content: space-around;
 }
+
 a {
   text-decoration: none;
   border: solid 1px black;
@@ -23,12 +28,17 @@ a {
   padding: 5px;
   color: white;
 }
+
 a:hover {
   color: black;
   background-color: darkmagenta;
 }
-header {
-  background-color: darkgrey;
-  height: 100px;
-  padding-top: 30px;
+
+main ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image {
+  margin: 5px;
 }
