@@ -70,3 +70,4 @@ promice.then(data => console.log(data));
 // fetch('https://jsonplaceholder.typicode.com/posts/1', {
 //   method: 'DELETE',
 // });
+
